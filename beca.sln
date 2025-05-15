@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "beca", "beca.csproj", "{B54F7CBB-C2A6-4C1A-A62B-5258C40E086B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B54F7CBB-C2A6-4C1A-A62B-5258C40E086B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B54F7CBB-C2A6-4C1A-A62B-5258C40E086B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B54F7CBB-C2A6-4C1A-A62B-5258C40E086B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B54F7CBB-C2A6-4C1A-A62B-5258C40E086B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D3408E3-CDF4-4F95-BA44-1D18A8DCA940}
+	EndGlobalSection
+EndGlobal

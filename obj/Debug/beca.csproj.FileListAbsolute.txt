@@ -1,0 +1,7 @@
+C:\Users\samco\source\repos\beca\bin\Debug\beca.exe.config
+C:\Users\samco\source\repos\beca\bin\Debug\beca.exe
+C:\Users\samco\source\repos\beca\bin\Debug\beca.pdb
+C:\Users\samco\source\repos\beca\obj\Debug\beca.csproj.AssemblyReference.cache
+C:\Users\samco\source\repos\beca\obj\Debug\beca.csproj.CoreCompileInputs.cache
+C:\Users\samco\source\repos\beca\obj\Debug\beca.exe
+C:\Users\samco\source\repos\beca\obj\Debug\beca.pdb
